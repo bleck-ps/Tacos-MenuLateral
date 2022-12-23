@@ -42,7 +42,6 @@ body {
     font-family: raleway-semibold;
     box-shadow: rgba(0, 0, 0, 0.5) 1px 1px 10px;
     align-items: center;
-    justify-content: center;
 }
 .hero > a > button > p {
     font-family: type-face;
